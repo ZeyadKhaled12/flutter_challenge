@@ -48,8 +48,3 @@ This Flutter application provides insights from an e-commerce dataset (ORDERS.JS
 3. For iOS:
    ```bash
    flutter run -d ios
-
-
-
-
-
