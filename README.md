@@ -25,8 +25,6 @@ This Flutter application provides insights from an e-commerce dataset (ORDERS.JS
    - Optimized for non-technical users.
    - Inspired by global FinTech standards.
 
-## Project Structure
-
 
 ## Installation and Setup
 1. Clone the repository:
