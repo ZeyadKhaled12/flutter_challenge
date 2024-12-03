@@ -1,16 +1,28 @@
-# flutter_challenge
+# Flutter E-commerce Insights App
 
-A new Flutter project.
+## Overview
+This Flutter application provides insights from an e-commerce dataset (ORDERS.JSON). It showcases essential metrics and visualizations for an e-commerce platform's orders. The app is built for iOS, Android, and Web platforms with a focus on user-friendly design and seamless experience.
 
-## Getting Started
+## Features
+1. **Numeric Metrics Screen**:
+   - Displays:
+     - Total number of orders.
+     - Average order price.
+     - Number of returned orders.
+     - Orders detail
+     - Filters with status amd dates
+   - Simple and clear layout for quick insights.
 
-This project is a starting point for a Flutter application.
+2. **Graph Screen**:
+   - Interactive graph plotting:
+     - X-axis: Time (e.g., days/months).
+     - X-axis: Time (e.g., days/time) as an option.
+     - Y-axis: Number of orders.
+   - Helps visualize order trends over time.
 
-A few resources to get you started if this is your first Flutter project:
+3. **User-Friendly Design**:
+   - Clean and intuitive interface.
+   - Optimized for non-technical users.
+   - Inspired by global FinTech standards.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
