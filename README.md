@@ -26,3 +26,17 @@ This Flutter application provides insights from an e-commerce dataset (ORDERS.JS
    - Inspired by global FinTech standards.
 
 ## Project Structure
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+
+cd <project-directory>
+flutter pub get
+flutter run -d web
+flutter run -d android
+flutter run -d ios
+flutter test
+
+Copy this into a file named `README.md` in your Flutter project directory.
+
