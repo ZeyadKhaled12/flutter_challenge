@@ -35,5 +35,21 @@ This Flutter application provides insights from an e-commerce dataset (ORDERS.JS
 2. Navigate to the project directory:
    ```bash
    cd <project-directory>
+3. Install the required dependencies:
+   ```bash
+   flutter pub get
+### Run the application:
+1. For Web:
+   ```bash
+   flutter run -d web
+2. For Android:
+   ```bash
+   flutter run -d android
+3. For iOS:
+   ```bash
+   flutter run -d ios
+
+
+
 
 
